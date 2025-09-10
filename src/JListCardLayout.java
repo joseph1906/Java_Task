@@ -49,7 +49,6 @@ public class JListCardLayout extends JFrame{
     public void background(){
         card1.setBackground(Color.blue);
         card2.setBackground(Color.red);
-        card3.setBackground(Color.green);
     }
 
     //The creation of the method actionListener
